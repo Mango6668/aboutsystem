@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- 定义风格为Holo-->
+    <style name="Theme.关于这个系统" parent="@android:style/Theme.Holo"></style>
+</resources>
